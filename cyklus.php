@@ -1,6 +1,6 @@
 <?php
 $i= 0;
-while ($i<100) {
+while ($i<200) {
     echo $i;
     echo "<br>";
     $i++;
